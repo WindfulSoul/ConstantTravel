@@ -1,3 +1,3 @@
 # Travel-is-My-Thing
 
-![](images/image.png)
+![](images/background.png)
