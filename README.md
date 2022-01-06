@@ -12,4 +12,3 @@ Built with
 - Javascript
   - DOM
   - QuerySelector
-  - 
